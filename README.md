@@ -2,14 +2,24 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor full-stack com 29 anos de idade, apaixonado por desafios. Tenho facilidade para aprender novas tecnologias, regras de negócio e processos.
+Sou um rapaz  com 29 anos de idade, apaixonado por desafios. Tenho facilidade para aprender novas tecnologias, regras de negócio e processos.
 
 Atualmente, estou em busca da primeira oportunidade no mundo TECH.
+
+
+
+
 
 ## Formação
 
 * **Graduação em Análise e Desenvolvimento de Sistemas** pela Universidade Nove de Julho (Uninove), com ênfase em Desenvolvimento Web.
+
 * **Especialização em Engenharia de Qualidade de Testes de Software** pela E2etreinamentos, em 2023.
+
+
+
+
+
 
 ## Competências
 
